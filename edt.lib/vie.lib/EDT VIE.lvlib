@@ -12,6 +12,11 @@
 		<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../Set Enable State on Multiple Controls.vi"/>
 		<Item Name="Set Visible State on Multiple Controls.vi" Type="VI" URL="../Set Visible State on Multiple Controls.vi"/>
 	</Item>
+	<Item Name="Logging" Type="Folder">
+		<Item Name="Initialize Logging Handler.vi" Type="VI" URL="../Initialize Logging Handler.vi"/>
+		<Item Name="Log Item.ctl" Type="VI" URL="../Log Item.ctl"/>
+		<Item Name="Log Level.ctl" Type="VI" URL="../Log Level.ctl"/>
+	</Item>
 	<Item Name="Structures" Type="Folder">
 		<Item Name="Concise State Machine" Type="Folder">
 			<Item Name="cSM Default Error Handler.vi" Type="VI" URL="../cSM Default Error Handler.vi"/>
